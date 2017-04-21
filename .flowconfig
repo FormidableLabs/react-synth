@@ -1,0 +1,9 @@
+[ignore]
+
+[include]
+
+[libs]
+flow-typed
+
+[options]
+module.name_mapper='react-synth' -> '<PROJECT_ROOT>/src/index.js'
